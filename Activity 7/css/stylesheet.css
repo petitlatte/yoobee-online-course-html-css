@@ -1,0 +1,44 @@
+body{
+	background: url("../img/pattern.jpg");
+}
+
+ h1 {
+	font-family: 'Philosopher', sans-serif;
+ 	font-size: 60px;
+ 	color: white;
+ 	text-align: center;
+ }
+
+h2{
+	color: white;
+	font-family: 'Slabo 27px', serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+video{
+		border-radius: 5px 5px 0px 0px;
+		box-shadow: 10px 5px 20px black;
+}
+
+#content {
+	width: 50%;
+  	margin: 0 auto;
+}
+
+#audio{
+	 	 width: 200px;
+	 	 height: 200px;
+ }
+
+.audio1 {
+		background: url("../img/owl001.jpg");
+}
+
+ .audio2 {
+	 	 background: url("../img/owl002.jpg");
+ }
+
+ .audio3{
+ 		background: url("../img/owl003.jpg");
+ }

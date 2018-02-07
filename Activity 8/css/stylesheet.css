@@ -1,0 +1,62 @@
+body{
+	background: url("../img/pattern.jpg");
+}
+
+header{
+	background-color: skyBlue;
+}
+
+h1{
+	font-family: 'Bungee', cursive;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 0;
+	color: white;
+	padding-top: 20px;
+	text-shadow: 3px 3px 3px darkBlue;
+}
+
+ul {	
+	list-style: none;
+	padding: 25px;
+	margin: 0;
+	text-align: center;
+	background: -webkit-linear-gradient(top, #ff7f04 0%,#ff7c00 33%,#ffa73d 71%,#ffb76b 100%);
+ }
+
+ ul li {
+ 	display: inline;
+ }
+
+ul li a {
+	background-color: #222222;
+	padding: 25px;
+	text-decoration: none;
+	color: white;
+ }
+
+#nav a:hover{
+	transition: 0.5s;
+	color: black;
+}
+
+.facebook a:hover {
+ 	background-color: #3b5998;
+ }
+
+ .twitter a:hover {
+ 	background-color: #55acee;
+ }
+
+ .snapchat a:hover {
+ 	background-color: #fffc00;
+ }
+
+ .tumblr a:hover {
+ 	background-color:  #32506d;
+ }
+
+ .googleplus a:hover {
+ 	background-color: #dd4b39;
+ }
+ 
